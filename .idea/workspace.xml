@@ -13,7 +13,6 @@
   <component name="ProjectId" id="1fxSy27sRsqk4fiAXgVrCJov03n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -104,18 +103,7 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -127,10 +115,21 @@
       <option name="presentableId" value="Default" />
       <updated>1597158501971</updated>
       <workItem from="1597158508973" duration="77000" />
+      <workItem from="1599046830749" duration="118000" />
+      <workItem from="1599047776880" duration="102000" />
+      <workItem from="1599049105215" duration="143000" />
+      <workItem from="1599049308799" duration="11000" />
+      <workItem from="1599049352050" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="843" y="403" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599047844995">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="843" y="403" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2194.1194/3840.0.1200.1880@0.0.2194.1194" timestamp="1599047844995" />
   </component>
 </project>
